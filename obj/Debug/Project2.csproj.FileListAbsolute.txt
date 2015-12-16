@@ -1,0 +1,6 @@
+C:\Users\Geetha Yedida\Documents\Visual Studio 2015\Projects\sampleapplication\Project2\bin\Debug\Project2.exe.config
+C:\Users\Geetha Yedida\Documents\Visual Studio 2015\Projects\sampleapplication\Project2\bin\Debug\Project2.exe
+C:\Users\Geetha Yedida\Documents\Visual Studio 2015\Projects\sampleapplication\Project2\bin\Debug\Project2.pdb
+C:\Users\Geetha Yedida\Documents\Visual Studio 2015\Projects\sampleapplication\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\Geetha Yedida\Documents\Visual Studio 2015\Projects\sampleapplication\Project2\obj\Debug\Project2.exe
+C:\Users\Geetha Yedida\Documents\Visual Studio 2015\Projects\sampleapplication\Project2\obj\Debug\Project2.pdb
